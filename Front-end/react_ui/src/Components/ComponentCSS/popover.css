@@ -1,0 +1,9 @@
+.popsize {
+    width: 300px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 13pt;
+    word-wrap: normal
+}
