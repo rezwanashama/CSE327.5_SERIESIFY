@@ -9,7 +9,7 @@ export class SearchResult extends Component {
 
         return (
             <div>
-                
+                <SeriesListView header={this.props.header} apicall= {`https://api.themoviedb.org/3/search/tv?api_key=a5c1a2920eaf594c07fef4fe581f2166&language=en-US&query=${query}&page=1`} />
             </div>
         )
     }
