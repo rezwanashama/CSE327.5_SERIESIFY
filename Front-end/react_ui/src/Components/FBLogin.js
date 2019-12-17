@@ -31,7 +31,7 @@ export class FBLogin extends Component {
 
     return (
       <div>
-       
+        {fbContent}
       </div>
     )
   }
