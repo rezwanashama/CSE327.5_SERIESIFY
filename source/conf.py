@@ -18,13 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'seriesFy'
-<<<<<<< HEAD
-copyright = '2019, MD. Zilan'
-author = 'MD. Zilan'
-=======
 copyright = '2019, Zilan'
 author = 'Zilan'
->>>>>>> 01ca8db5d2db31d47ef0f4dd00cec98ecedfb399
 
 
 # -- General configuration ---------------------------------------------------
